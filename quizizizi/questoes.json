@@ -1,0 +1,96 @@
+[
+    {
+      "pergunta": "1.Qual é a principal fonte de locomoção das águas-vivas? ",
+      "correta": 2,
+      "alternativas": ["Nadadeiras poderosas.","Pernas articuladas.","Jatos de água.","Asas transparentes.","Tentáculos adesivos."]
+    },
+    {
+      "pergunta": "2. Como as estrelas-do-mar se alimentam?",
+      "correta": 1,
+      "alternativas": [ "Caçando peixes velozes.",
+      "Filtrando plâncton da água.",
+      "Se alimentando de algas marinhas.",
+      "Sugando o sangue de outros animais.",
+      "Caçando camarões e caranguejos."]
+    },
+    {
+        "pergunta": "3. Como os golfinhos respiram?",
+        "correta": 2,
+        "alternativas": [  "Eles têm brânquias para absorver oxigênio da água.",
+        "Respiram através da pele.",
+        "Têm pulmões semelhantes aos humanos, então respiram ar.",
+        "Realizam trocas gasosas através dos olhos.",
+        "Absorvem oxigênio através das nadadeiras."]
+    },
+
+    {
+      "pergunta": "4.Como os tubarões detectam campos elétricos gerados por outros organismos?",
+      "correta": 3,
+      "alternativas": [  "Através de olfato .",
+      "Utilizando órgãos luminosos.",
+      "Detectando vibrações na água.",
+      "Usando órgãos sensoriais chamados ampolas de Lorenzini.",
+      "Visualizando campos magnéticos."]
+    },
+
+    {
+      "pergunta": "5. O que os polvos fazem com sua habilidade de camuflagem?",
+      "correta": 3,
+      "alternativas": [
+        "Eles criam modas subaquáticas.",
+        "Fazem pegadinhas com outros animais marinhos.",
+        "Jogam esconde-esconde em recifes de corais.",
+        "Usam para se esconder de predadores e caçar presas."]
+    },
+
+    {
+      "pergunta": "6.Qual é a abordagem do tubarão-branco ao experimentar suas presas?",
+      "correta":3,
+      "alternativas": [ "Ele faz uma dança para suas presas.",
+      "Ele as leva para encontros românticos na lua.",
+      "Ele gosta de realizar entrevistas de emprego com suas presas.",
+      "Ele muitas vezes as prova antes de decidir se vai dar outra mordida."
+      ]
+    },
+
+    {
+      "pergunta": "7. Qual é a característica mais impressionante da lula colossal?",
+      "correta":3,
+      "alternativas":[  "Seu talento para tocar piano.",
+      "Seu gosto por cantar ópera no chuveiro.",
+      "Seus incríveis tentáculos que podem fazer malabarismos.",
+      "Seus olhos do tamanho de pratos de jantar."
+      ]
+    },
+    
+    {
+      "pergunta": "8. O que torna a lula-gigante tão incrível?",
+      "correta": 2,
+      "alternativas":[  "Sua habilidade de cantar músicas de ninar.",
+      "Seus tentáculos altamente treinados em artes marciais.",
+
+      "Seus tentáculos podem atingir tamanhos incríveis e sua evasão habilidosa.",
+      "Sua tendência a se vestir como piratas nos finais de semana." ]
+    },
+
+    {
+      "pergunta": "9. O que torna as orcas as rainhas do oceano?",
+      "correta": 3,
+      "alternativas":[ "Seu talento incrível para a dança de salão.",
+      "Seu hábito de coletar conchas e fazer bijuterias.",
+      "Sua capacidade de voar como as águias.",
+      "Sua inteligência e estratégias de caça em equipe."
+      ]
+    },
+
+    {
+      "pergunta": "10. Qual é a incrível habilidade da cabeça do tubarão-martelo?",
+      "correta": 2,
+      "alternativas":[    "Ele consegue transformar-se em um soco inglês.",
+      "Ele usa sua cabeça como um instrumento musical.",
+      "Ele detecta presas enterradas na areia, agindo como um radar.",
+      "Ele realiza cabeçadas espetaculares em shows de rock marinhos."]
+    }
+
+    
+  ]

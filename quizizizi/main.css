@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan&family=Merriweather&family=Playfair+Display&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Playfair Display', serif;
+}
+
+body {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-image: url('https://cdn.pixabay.com/photo/2019/01/30/09/41/jellyfish-3964165_1280.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+main {
+    background-color: white;
+    border-radius: 80px;
+    padding: 3rem;
+    width: 100%;
+    max-width: 600px;
+    max-height: 600px;
+}
+
+  .quiz {
+      display: flex;
+      flex-direction: column;
+      width: 100%;
+      gap: 1rem;
+  }
+
+button {
+    width: 100%;
+    text-align: center;
+    padding: 1px;
+    margin: 5px;
+    gap: 1rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color:#5C8374 ;
+    font-size: 30px;
+    transition: 0.4s;
+}
+
+button:hover {
+    animation: alternate;
+    background-color: #183D3D;
+}
+
+
+.modal-finish {
+  
+    display: flex;
+    position: fixed;
+    inset: 0;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgba(0 0 0 / .9);
+    color: #FFFFFF;
+    font-size: 3rem;
+    opacity: 0;
+    visibility: hidden;
+    transition: .4s;
+  }
+  
+  .modal-finish.open {
+    opacity: 4;
+    visibility: visible;
+  }
+
+  #win {
+    height: 150px;
+  }
+
+  .btn {
+ 
+    width: 200px;
+    font-size: 1.8rem;
+  }
